@@ -13,6 +13,8 @@
 		A7CA68521A643DD7008E65D7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7CA68511A643DD7008E65D7 /* Images.xcassets */; };
 		A7CA68551A643DD7008E65D7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7CA68531A643DD7008E65D7 /* LaunchScreen.xib */; };
 		A7CA68611A643DD7008E65D7 /* PostCardTwoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CA68601A643DD7008E65D7 /* PostCardTwoTests.swift */; };
+		A7CA686D1A643F0C008E65D7 /* IMG_2126.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7CA686C1A643F0C008E65D7 /* IMG_2126.JPG */; };
+		A7CA686F1A644220008E65D7 /* IMG_1268.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7CA686E1A644220008E65D7 /* IMG_1268.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		A7CA685A1A643DD7008E65D7 /* PostCardTwoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCardTwoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CA685F1A643DD7008E65D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7CA68601A643DD7008E65D7 /* PostCardTwoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardTwoTests.swift; sourceTree = "<group>"; };
+		A7CA686C1A643F0C008E65D7 /* IMG_2126.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_2126.JPG; sourceTree = "<group>"; };
+		A7CA686E1A644220008E65D7 /* IMG_1268.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1268.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		A7CA68481A643DD7008E65D7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A7CA686E1A644220008E65D7 /* IMG_1268.JPG */,
+				A7CA686C1A643F0C008E65D7 /* IMG_2126.JPG */,
 				A7CA68491A643DD7008E65D7 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				A7CA68501A643DD7008E65D7 /* Main.storyboard in Resources */,
 				A7CA68551A643DD7008E65D7 /* LaunchScreen.xib in Resources */,
+				A7CA686D1A643F0C008E65D7 /* IMG_2126.JPG in Resources */,
+				A7CA686F1A644220008E65D7 /* IMG_1268.JPG in Resources */,
 				A7CA68521A643DD7008E65D7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
